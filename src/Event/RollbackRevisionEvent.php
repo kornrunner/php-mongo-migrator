@@ -2,7 +2,7 @@
 
 namespace Sokil\Mongo\Migrator\Event;
 
-class RollbackRevisionEvent extends RevisionEvent
+class RollbackRevisionEvent extends ApplyRevisionEvent
 {
     const NAME = 'rollback_revision';
 }
