@@ -1,5 +1,5 @@
 {
-    "name": "sokil/php-mongo-migrator",
+    "name": "datingvip/php-mongo-migrator",
     "description": "Migrations for MongoDB",
     "license": "MIT",
     "homepage": "http://phpmongokit.github.io/",
